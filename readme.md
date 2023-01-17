@@ -1,0 +1,3 @@
+# typeclassopedia
+
+notes.
